@@ -151,21 +151,21 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 ## 15. Governing Law
 
-These Terms shall be governed by the laws of [Your Jurisdiction], without regard to conflict of law provisions.
+These Terms shall be governed by the laws of India, and the courts of Maharashtra shall have exclusive jurisdiction.
 
 ## 16. Dispute Resolution
 
 Any disputes arising from these Terms or the Bot shall be resolved through:
 - Good faith negotiation
 - Mediation if negotiation fails
-- Binding arbitration in accordance with [Arbitration Rules] if applicable
+- Binding arbitration in accordance with the Arbitration and Conciliation Act, 1996 (India) if applicable
 
 ## 17. Contact Information
 
 For questions, concerns, or support:
-- Support Server: [Your Discord Server Link]
-- Email: [Your Contact Email]
-- Website: [Your Website]
+- Support Server: https://discord.gg/Xj6JZXaqwg
+- Email: mintonebot@outlook.com
+- Website: https://mintone.tech
 
 ## 18. Acknowledgment
 
