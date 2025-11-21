@@ -83,8 +83,8 @@ We may update this Privacy Policy periodically. Continued use of the Bot after c
 ## 11. Contact Information
 
 For privacy concerns, data requests, or questions:
-- Support Server: [Your Discord Server Link]
-- Email: [Your Contact Email]
+- Support Server: https://discord.gg/Xj6JZXaqwg
+- Email: mintonebot@outlook.com
 
 ## 12. Discord's Privacy Policy
 
